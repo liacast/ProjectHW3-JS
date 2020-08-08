@@ -1,3 +1,4 @@
+// set first const
 const characterAmountRange = document.getElementById
     ('characterAmountRange')
 const characterAmountNumber = document.getElementById
