@@ -1,7 +1,9 @@
 # ProjectHW3-JS
 
-My homework in a different format because I chose to follow the tutorial that I liked, that were more helpful and easy to understand. And the product I can use in real life, not just as a practice. 
+# Screenshots
 
-I watched multiple youtub tutorial to build this page. I do not feel confident about Javascript yet, I would say I feel incredibly unintelligent, because how little I can understand. For most of the activities we have in class I have to watch the tutorials, and it helps not to feel that discouraged. 
+![Quiz Image](./img/img1.png)
+![Quiz Image](./img/img2.png)
 
- We are moving too fast in class for me to follow.  I only can follow tutorials to build something useful. 
+
+Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
